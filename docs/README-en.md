@@ -2,8 +2,6 @@
 
 ![Stars](https://img.shields.io/github/stars/AaronYang233/Timelines) ![license](https://img.shields.io/badge/License-Apache%202.0-blue?style=flat-square)
 
-[简体中文](./docs/README-zh.md) | [English](./docs/README-en.md)
-
 ## Project Overview
 
 This project is an **interactive horizontal timeline component** designed to provide a smooth time navigation experience. It is suitable for displaying historical events, news retrospectives, academic research, and more. Users can explore the timeline through **dragging, scroll zooming, and keyboard shortcuts**, and interactively view time marker details.
