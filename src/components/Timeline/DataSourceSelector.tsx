@@ -724,7 +724,7 @@ const DataSourceSelector: React.FC<DataSourceSelectorProps> = ({
               <Button 
                 onClick={handleSubmit} 
                 disabled={isSubmitting}
-                className="relative overflow-hidden flex-1"
+                className="relative overflow-hidden flex-2"
               >
                 {isSubmitting ? (
                   <>
@@ -736,7 +736,7 @@ const DataSourceSelector: React.FC<DataSourceSelectorProps> = ({
                 ) : (
                   <>
                     <Check className="h-4 w-4 mr-2" />
-                    <span>连接</span>
+                    <span>测试连接</span>
                   </>
                 )}
               </Button>
